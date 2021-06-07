@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mikewebbdev
 - 👀 I’m interested in bass, gaming & cats.
-- 🌱 I’m currently learning React & PHP mvc frameworks.
+- 🌱 I’m currently pure backend/PHP
 - 💞️ I’m looking to collaborate on anything under the sun! 
 - 📫 How to reach me: mike.pjwebb@gmail.com
 
